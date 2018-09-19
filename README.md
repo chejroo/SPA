@@ -1,6 +1,8 @@
 # Aplikacja dla SPA
 React, Redux, Router v4  APP
 
+![Screenshot](https://github.com/chejroo/SPA/blob/master/public/assets/SPA-screen.png)
+
 ### Project
 
 ```sh
